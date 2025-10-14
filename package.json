@@ -1,8 +1,8 @@
 // package.json snippet
 "scripts": {
+  "name": "tv-chromebook-app",
+  "version": "1.0.0",
   "start": "react-scripts start",
   "build": "react-scripts build", // For CRA
   "test": "react-scripts test",
-  // OR for Vite:
-  "build": "vite build"
 },
