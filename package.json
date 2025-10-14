@@ -1,6 +1,13 @@
-"scripts": {
-  "name": "tv-chromebook-app",
-  "version": "1.0.0",
-  "start": "react-scripts start",
-  "build": "react-scripts build"
+{
+  {
+    "name": "tv-chromebook-app",
+    "version:" "1.0.0"
+  },
+
+  {
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test"
+    }
 }
