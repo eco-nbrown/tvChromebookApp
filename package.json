@@ -18,9 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "firebase": "^10.12.3",
-    "lodash.debounce": "^4.0.8"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.4", 
